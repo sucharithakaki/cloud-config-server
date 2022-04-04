@@ -18,4 +18,4 @@ microservice:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder
         
- message:Spring Boot Applications
+ message: Spring Boot Applications
